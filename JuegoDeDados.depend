@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1719284954 source:c:\users\angel\onedrive\escritorio\tp - juego de dados\juegodedados\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"logicaDados.h"
+	<clocale>
+	"rlutil.h"
+
+1719285011 c:\users\angel\onedrive\escritorio\tp - juego de dados\juegodedados\funciones.h
+
+1719285076 source:c:\users\angel\onedrive\escritorio\tp - juego de dados\juegodedados\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"logicaDados.h"
+	"rlutil.h"
+
+1719282734 source:c:\users\angel\onedrive\escritorio\tp - juego de dados\juegodedados\logicadados.cpp
+	<iostream>
+	<clocale>
+
+1719251324 c:\users\angel\onedrive\escritorio\tp - juego de dados\juegodedados\logicadados.h
+
+1719209578 c:\users\angel\onedrive\escritorio\tp - juego de dados\juegodedados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719284954 source:c:\users\brsha.laptop-2oh3e59p\downloads\juegodedados\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"logicaDados.h"
+	<clocale>
+	"rlutil.h"
+
+1719285011 c:\users\brsha.laptop-2oh3e59p\downloads\juegodedados\funciones.h
+
+1719251324 c:\users\brsha.laptop-2oh3e59p\downloads\juegodedados\logicadados.h
+
+1719209578 c:\users\brsha.laptop-2oh3e59p\downloads\juegodedados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719322094 source:c:\users\brsha.laptop-2oh3e59p\downloads\juegodedados\logicadados.cpp
+	<iostream>
+	<clocale>
+
+1719285282 source:c:\users\brsha.laptop-2oh3e59p\downloads\juegodedados\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"logicaDados.h"
+	"rlutil.h"
+
+1719495029 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\juegodedados\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"logicaDados.h"
+	<clocale>
+	"rlutil.h"
+
+1719285011 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\juegodedados\funciones.h
+
+1719251324 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\juegodedados\logicadados.h
+
+1719209578 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\juegodedados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719496769 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\juegodedados\logicadados.cpp
+	<iostream>
+	<clocale>
+
+1719412058 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\juegodedados\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"logicaDados.h"
+	"rlutil.h"
+
